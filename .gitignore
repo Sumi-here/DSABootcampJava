@@ -31,7 +31,7 @@ bin/
 
 ### Idea ###
 
-.idea/
+*.idea/
 
 
 ### iml ###
