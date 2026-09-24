@@ -1,3 +1,4 @@
+//A function that returns the sum of first n natural numbers.
 import java.util.Scanner;
 public class SumofNnum {
     static int sumNatural(int n) {

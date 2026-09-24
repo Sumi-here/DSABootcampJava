@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MarksGrade {
+public class MarksGrade{
     static void Grade(int marks) {
         if (marks >= 91 && marks <= 100) {
             System.out.println("Grade: AA");
