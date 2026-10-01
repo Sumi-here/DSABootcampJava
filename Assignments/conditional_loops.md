@@ -50,7 +50,7 @@ Take integer inputs till the user enters 0 and print the largest number from all
 
 Addition Of Two Numbers
 
-Intermediate Java Programs
+_**INTERMEDIATE JAVA PROGRAMS**_
 
 Factorial Program In Java
 
