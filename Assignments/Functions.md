@@ -13,8 +13,6 @@ Write a program to print the circumference and area of a circle of radius entere
 Define a method to find out if a number is prime or not.
 
 Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:
-
-
 Marks        Grade
 91-100         AA
 81-90          AB

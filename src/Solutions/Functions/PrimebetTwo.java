@@ -12,6 +12,7 @@ public class PrimebetTwo{
             }
             if(count==2){
                 System.out.print(num+" ");
+
             }
         }
     }
